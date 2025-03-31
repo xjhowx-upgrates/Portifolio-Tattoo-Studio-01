@@ -3,7 +3,7 @@
 Bem-vindo ao repositório da landing page para estúdio de tatuagem! Esta página foi desenvolvida para oferecer uma experiência imersiva e intuitiva para clientes interessados em tatuagens de qualidade. 
 
 <div align="center">
-  <img src="assets/logo.png" alt="Logo Tattoo Studio" width="200"/>
+  <img src="https://raw.githubusercontent.com/xjhowx-upgrates/Portifolio-Tattoo-Studio-00/main/imgLogo.png" alt="Logo Tattoo Studio" width="100"/>
 </div>
 
 ---
